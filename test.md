@@ -1,4 +1,4 @@
-# rock-paper-scissors part 1
+# rock-paper-scissors-part-1
 
 ## Introduction
 Let's build a rock paper scissors game with the microbit. 
@@ -8,8 +8,6 @@ The input is: Shaking
 The output is: LED display
 
 ## Step 1 
-
-
 
 ```blocks
 let a = "a"
