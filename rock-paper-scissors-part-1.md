@@ -1,13 +1,12 @@
+# Flash-a-rama
 
-## Step 1
+## It's time to code! @showhint
 
-Instructions for step 2 here..
-```blocks
-basic.showNumber(0)
-basic.forever(function () {
-    music.playMelody("", 120)
-})
-```
+Let's get real bright. We're going to make all the lights flash on your board!
+
+![Flash lights](/static/tutorials/lights-flashing.gif)
+
+## Step 1: Make a new variable
 
 <!-- ## Step 2 Show the temperature
 
