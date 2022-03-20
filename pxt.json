@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "rock-paper-scissors-part-1.md"
+        "rock-paper-scissors-part-1.md",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
